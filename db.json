@@ -156,7 +156,8 @@
           "booked" :false,
           "image": "https://images.pexels.com/photos/105831/pexels-photo-105831.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 
-      },  {
+      },  
+      {
           "id" : "14",
           "price" :"USD 670" ,
           "name" : "Spain",
@@ -167,7 +168,30 @@
           "booked" :false,
           "image": "https://images.pexels.com/photos/1710482/pexels-photo-1710482.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 
-      }
+      },  {
+        "id" : "15",
+        "price" :"USD 950" ,
+        "name" : "Kuwait",
+        "depature" : "1:00 , Friday 6-12-23",
+        "arival" : "19:00 , wednesday 10-12-23"  ,
+        "location" : "Kuwait",
+        "aeroplane" : "o45",
+        "booked" :false,
+        "image": "https://images.pexels.com/photos/3768654/pexels-photo-3768654.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    },
+    {
+        "id" : "16",
+        "price" :"USD 1480" ,
+        "name" : "Madagascar",
+        "depature" : "8:00 , Thursday 5-12-23",
+        "arival" : "22:00 , Thursdat 5-12-23"  ,
+        "location" : "Madagascar",
+        "aeroplane" : "M67",
+        "booked" :false,
+        "image": "https://images.pexels.com/photos/2253921/pexels-photo-2253921.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    }
   ]
  
 
