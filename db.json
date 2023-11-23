@@ -218,19 +218,7 @@
         "image": "https://images.pexels.com/photos/1089307/pexels-photo-1089307.jpeg?auto=compress&cs=tinysrgb&w=1600"
 
     }
-    ,
-    {
-        "id" : "19",
-        "price" :"USD 760" ,
-        "name" : "Cape Town",
-        "depature" : "7:00 , Thursday 12-12-23",
-        "arival" : "2:00 , Thursday 12-12-23"  ,
-        "location" : "Cape Town",
-        "aeroplane" : "E90",
-        "booked" :false,
-        "image": "https://images.pexels.com/photos/1089304/pexels-photo-1089304.jpeg?auto=compress&cs=tinysrgb&w=1600"
-
-    }
+  
   ]
  
 
