@@ -192,6 +192,45 @@
         "image": "https://images.pexels.com/photos/2253921/pexels-photo-2253921.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 
     }
+    ,
+    {
+        "id" : "17",
+        "price" :"USD 480" ,
+        "name" : "Nigeria",
+        "depature" : "18:00 , Saturday 7-12-23",
+        "arival" : "22:00 , Sunday 8-12-23"  ,
+        "location" : "Nigeria",
+        "aeroplane" : "u78",
+        "booked" :false,
+        "image": "https://images.pexels.com/photos/113585/pexels-photo-113585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    }
+    ,
+    {
+        "id" : "18",
+        "price" :"USD 180" ,
+        "name" : "Morrocco",
+        "depature" : "8:00 , Monday 9-12-23",
+        "arival" : "22:00 , Tuesday 10-12-23"  ,
+        "location" : "Morrocco",
+        "aeroplane" : "P20",
+        "booked" :false,
+        "image": "https://images.pexels.com/photos/1089307/pexels-photo-1089307.jpeg?auto=compress&cs=tinysrgb&w=1600"
+
+    }
+    ,
+    {
+        "id" : "19",
+        "price" :"USD 760" ,
+        "name" : "Cape Town",
+        "depature" : "7:00 , Thursday 12-12-23",
+        "arival" : "2:00 , Thursday 12-12-23"  ,
+        "location" : "Cape Town",
+        "aeroplane" : "E90",
+        "booked" :false,
+        "image": "https://images.pexels.com/photos/1089304/pexels-photo-1089304.jpeg?auto=compress&cs=tinysrgb&w=1600"
+
+    }
   ]
  
 
