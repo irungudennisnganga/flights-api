@@ -185,7 +185,7 @@
         "price" :"USD 1480" ,
         "name" : "Madagascar",
         "depature" : "8:00 , Thursday 5-12-23",
-        "arival" : "22:00 , Thursdat 5-12-23"  ,
+        "arival" : "22:00 , Thursday 5-12-23"  ,
         "location" : "Madagascar",
         "aeroplane" : "M67",
         "booked" :false,
